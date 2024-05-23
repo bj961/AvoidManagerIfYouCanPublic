@@ -5,6 +5,10 @@
 - 내일배움캠프 Unity 4기 Chap 03-1. Unity 게임개발 입문 팀 프로젝트
   
 - 게임 이름 : AvoidManagerIfYouCan
+
+- 조작키 :
+   좌우이동 : 1P A D, 2P 좌우 방향키
+   가속 : 1P S, 2P 아래 방향키
   
 - 게임 내용
 ![1](https://github.com/bj961/AvoidManagerIfYouCanPublic/assets/73685098/29f4c420-83a2-461f-9df3-3f0d31987256)
